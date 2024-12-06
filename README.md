@@ -45,3 +45,9 @@ pip install -e .
 replace the nn directory or add the lightweight modules in nn/task.py, nn/modules/**init**.py, nn/modules/block.py, nn/modules/conv.py
 
 Sample notebooks and model configurations are provide in dev/notebooks and dev/cfg directories.
+
+## License
+
+This project is licensed under [MIT License](LICENSE).
+
+---
