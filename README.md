@@ -30,7 +30,7 @@ cd Eff-Yolov8.git
 Create environment and install pytorch:
 
 ```bash
-conda create -n <env_name> python 3.10
+conda create -n <env_name> python=3.10
 conda activate <env_name>
 pip install torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 --index-url https://download.pytorch.org/whl/cu121 # https://pytorch.org/get-started/previous-versions/
 ```
