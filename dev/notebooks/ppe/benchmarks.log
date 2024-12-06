@@ -1,0 +1,160 @@
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (483.23s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4370                    5.57  179.63
+1             TorchScript       ✅        2.6               0.4367                    2.58  387.88
+2                    ONNX       ✅        2.4               0.4366                    4.92  203.23
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  105.61    9.47
+12                   NCNN       ✅        2.4               0.4366                   18.37   54.44
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (113.71s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4370                    5.41  184.88
+1             TorchScript       ✅        2.6               0.4367                    2.60  384.01
+2                    ONNX       ✅        2.4               0.4365                    5.57  179.59
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  105.96    9.44
+12                   NCNN       ✅        2.4               0.4366                   18.25   54.80
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (231.08s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                   54.20   18.45
+1             TorchScript       ✅        2.6               0.4366                   45.96   21.76
+2                    ONNX       ✅        2.4               0.4366                   15.01   66.60
+3                OpenVINO       ✅        2.5               0.4366                    6.85  146.08
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  106.57    9.38
+12                   NCNN       ✅        2.4               0.4366                   17.73   56.40
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (128.20s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                   51.65   19.36
+1             TorchScript       ✅        2.6               0.4366                   45.12   22.16
+2                    ONNX       ✅        2.4               0.4366                   14.34   69.74
+3                OpenVINO       ✅        2.5               0.4366                    6.57  152.13
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  101.59    9.84
+12                   NCNN       ✅        2.4               0.4366                   17.85   56.01
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (225.75s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                   52.05   19.21
+1             TorchScript       ✅        2.6               0.4366                   44.74   22.35
+2                    ONNX       ✅        2.4               0.4366                   14.73   67.91
+3                OpenVINO       ✅        2.5               0.4366                    6.65  150.35
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4366                  103.10    9.70
+12                   NCNN       ✅        2.4               0.4366                   19.08   52.41
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (97.65s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                   45.72   21.87
+1             TorchScript       ✅        2.6               0.4366                   41.02   24.38
+2                    ONNX       ✅        2.4               0.4366                   15.19   65.84
+3                OpenVINO       ✅        2.5               0.4366                    6.68  149.69
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4366                  105.58    9.47
+12                   NCNN       ✅        2.4               0.4366                   18.74   53.35
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (85.18s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                   48.22   20.74
+1             TorchScript       ✅        2.6               0.4366                   41.27   24.23
+2                    ONNX       ✅        2.4               0.4366                   16.11   62.08
+3                OpenVINO       ✅        2.5               0.4366                    7.68  130.26
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4366                  107.10    9.34
+12                   NCNN       ✅        2.4               0.4366                   19.50   51.28
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (133.19s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4373                    5.67  176.48
+1             TorchScript       ✅        2.6               0.4367                    2.71  368.41
+2                    ONNX       ✅        2.4               0.4365                    5.02  199.28
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4366                  107.21    9.33
+12                   NCNN       ✅        2.4               0.4366                   18.48   54.12
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (183.72s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4373                    5.24  190.95
+1             TorchScript       ✅        2.6               0.4367                    2.76  361.69
+2                    ONNX       ✅        2.4               0.4366                    4.93  202.77
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  109.28    9.15
+12                   NCNN       ✅        2.4               0.4366                   18.52   54.01
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/CHV-1-yolo8/data.yaml at imgsz=640 (109.49s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4371                    5.75  174.05
+1             TorchScript       ✅        2.6               0.4367                    2.42  412.79
+2                    ONNX       ✅        2.4               0.4366                    5.58  179.19
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.8               0.4366                  104.40    9.58
+12                   NCNN       ✅        2.4               0.4366                   17.93   55.78

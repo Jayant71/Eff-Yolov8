@@ -1,0 +1,240 @@
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (857.45s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4561                    6.15  162.50
+1             TorchScript       ✅        2.6               0.4505                    2.79  358.96
+2                    ONNX       ✅        2.3               0.4505                    5.57  179.53
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                    7.58  131.93
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    8.44  118.50
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN     NaN
+12                   NCNN       ❌        0.0                  NaN                     NaN     NaN
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (227.24s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4562                   44.02   22.72
+1             TorchScript       ✅        2.6               0.4505                   37.62   26.58
+2                    ONNX       ✅        2.3               0.4505                   16.71   59.83
+3                OpenVINO       ✅        2.4               0.4505                    7.45  134.28
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4506                    7.70  129.79
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    9.58  104.39
+8         TensorFlow Lite       ✅        2.4               0.4505                   29.21   34.24
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  105.30    9.50
+12                   NCNN       ✅        2.3               0.4505                   15.42   64.85
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (200.07s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4561                    5.15  194.17
+1             TorchScript       ✅        2.6               0.4505                    2.80  357.36
+2                    ONNX       ✅        2.3               0.4505                    4.73  211.34
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ✅        4.8               0.4505                    1.12  890.69
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                    7.70  129.87
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    8.80  113.59
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  106.67    9.38
+12                   NCNN       ✅        2.3               0.4505                   15.37   65.05
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (200.52s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4562                   41.78   23.94
+1             TorchScript       ✅        2.6               0.4505                   36.21   27.61
+2                    ONNX       ✅        2.3               0.4505                   15.90   62.89
+3                OpenVINO       ✅        2.4               0.4505                    5.82  171.72
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                   99.78   10.02
+12                   NCNN       ✅        2.3               0.4505                   14.11   70.88
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (488.40s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4561                    6.44  155.24
+1             TorchScript       ✅        2.6               0.4505                    2.76  361.82
+2                    ONNX       ✅        2.3               0.4505                    5.82  171.72
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❎        3.5                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                    7.58  131.96
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    8.46  118.21
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  109.91    9.10
+12                   NCNN       ✅        2.3               0.4505                   17.35   57.64
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (229.50s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4560                    6.41  156.00
+1             TorchScript       ✅        2.6               0.4505                    2.89  346.20
+2                    ONNX       ✅        2.3               0.4505                    4.30  232.50
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ✅        3.5               0.4506                    1.38  726.05
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❎        5.8                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❎        2.4                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  106.24    9.41
+12                   NCNN       ✅        2.3               0.4505                   16.53   60.48
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (264.11s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4562                   45.99   21.74
+1             TorchScript       ✅        2.6               0.4505                   37.98   26.33
+2                    ONNX       ✅        2.3               0.4505                   18.53   53.96
+3                OpenVINO       ✅        2.4               0.4505                    6.66  150.09
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❎        5.8                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❎        2.4                  NaN                     NaN     NaN
+8         TensorFlow Lite       ✅        2.4               0.4505                   29.94   33.41
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  110.74    9.03
+12                   NCNN       ✅        2.3               0.4505                   18.54   53.92
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (406.18s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)    FPS
+0                 PyTorch       ✅        1.3               0.4560                  651.23   1.54
+1             TorchScript       ✅        2.6               0.4502                 1029.58   0.97
+2                    ONNX       ❎        2.3                  NaN                     NaN    NaN
+3                OpenVINO       ✅        1.4               0.4507                   10.08  99.16
+4                TensorRT       ❌        0.0                  NaN                     NaN    NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN    NaN
+6   TensorFlow SavedModel       ❎        5.8                  NaN                     NaN    NaN
+7     TensorFlow GraphDef       ❎        2.4                  NaN                     NaN    NaN
+8         TensorFlow Lite       ✅        1.2               0.4512                   29.68  33.69
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN    NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN    NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  107.96   9.26
+12                   NCNN       ✅        1.2               0.4507                   16.30  61.37
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (177.17s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4560                    6.60  151.55
+1             TorchScript       ✅        2.6               0.4505                    3.02  330.58
+2                    ONNX       ✅        2.3               0.4505                   24.95   40.08
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❎        3.5                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  108.01    9.26
+12                   NCNN       ✅        2.3               0.4505                   17.17   58.25
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (539.60s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4561                    6.93  144.37
+1             TorchScript       ✅        2.6               0.4505                    3.25  307.90
+2                    ONNX       ✅        2.3               0.4505                    5.10  196.08
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❎        3.5                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                    8.93  112.00
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    9.10  109.83
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  108.86    9.19
+12                   NCNN       ✅        2.3               0.4505                   17.39   57.52
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (233.86s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4560                    6.76  147.87
+1             TorchScript       ✅        2.6               0.4505                    3.16  316.75
+2                    ONNX       ✅        2.3               0.4505                    4.46  224.32
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ✅        3.5               0.4506                    1.31  764.22
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❎        5.8                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❎        2.4                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  112.70    8.87
+12                   NCNN       ✅        2.3               0.4505                   19.24   51.96
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (217.09s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4562                   49.93   20.03
+1             TorchScript       ✅        2.6               0.4505                   40.36   24.78
+2                    ONNX       ✅        2.3               0.4505                   21.48   46.54
+3                OpenVINO       ✅        2.4               0.4505                    7.29  137.11
+4                TensorRT       ❌        0.0                  NaN                     NaN     NaN
+5                  CoreML       ❎        1.2                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                   21.86   45.74
+7     TensorFlow GraphDef       ✅        2.4               0.4505                   22.43   44.58
+8         TensorFlow Lite       ✅        2.4               0.4505                   31.83   31.42
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  113.22    8.83
+12                   NCNN       ✅        2.3               0.4505                   19.63   50.95
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (209.33s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4560                    6.91  144.75
+1             TorchScript       ✅        2.6               0.4505                    3.21  311.96
+2                    ONNX       ✅        2.3               0.4505                   25.72   38.87
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❎        3.4                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  108.66    9.20
+12                   NCNN       ✅        2.3               0.4505                   17.61   56.79
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (221.43s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4560                    6.77  147.61
+1             TorchScript       ✅        2.6               0.4505                    3.53  283.24
+2                    ONNX       ✅        2.3               0.4505                   24.98   40.03
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ✅        3.5               0.4506                    1.43  697.32
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  111.47    8.97
+12                   NCNN       ✅        2.3               0.4505                   18.19   54.98
+
+Benchmarks complete for best.pt on /home/jayant/project/CV/Eff-Yolo8/datasets/apples-1/data.yaml at imgsz=640 (353.04s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)     FPS
+0                 PyTorch       ✅        1.3               0.4561                    7.59  131.73
+1             TorchScript       ✅        2.6               0.4505                    3.43  291.48
+2                    ONNX       ✅        2.3               0.4505                    6.69  149.43
+3                OpenVINO       ❌        0.0                  NaN                     NaN     NaN
+4                TensorRT       ❎        3.5                  NaN                     NaN     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN     NaN
+6   TensorFlow SavedModel       ✅        5.8               0.4505                    7.89  126.67
+7     TensorFlow GraphDef       ✅        2.4               0.4505                    9.36  106.80
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN     NaN
+11           PaddlePaddle       ✅        4.9               0.4505                  114.20    8.76
+12                   NCNN       ✅        2.3               0.4505                   19.01   52.61
